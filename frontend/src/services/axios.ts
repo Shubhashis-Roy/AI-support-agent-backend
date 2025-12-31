@@ -1,9 +1,9 @@
 import axios from "axios";
 
-const API_URL =
-  window.location.hostname === "localhost"
-    ? import.meta.env.VITE_API_DEV_URL
-    : import.meta.env.VITE_API_PROD_URL;
+const API_URL = "https://support-backend-jyvj.onrender.com/api";
+// window.location.hostname === "localhost"
+//   ? import.meta.env.VITE_API_DEV_URL
+//   : import.meta.env.VITE_API_PROD_URL;
 
 const axiosInstance = axios.create({
   baseURL: API_URL,
