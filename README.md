@@ -1,7 +1,6 @@
 # AI Support Chatbot
 
-- Description: A full-stack AI-powered customer support chatbot built as an assignment project.  
-  The application allows users to chat with a support agent, persists conversations, and restores chat history on reload using a session-based approach.
+- Description: The application allows users to chat with a support agent, persists conversations, and restores chat history on reload using a session-based approach.
 
 ## How to setup and run the project
 
