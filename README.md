@@ -6,9 +6,9 @@
 ## How to setup and run the project locally
 
 ### Frontend
-
-- Add .env file
-- env file (please do not edit just copy and paste this into the .env file):
+- Clone the project from GitHub 
+- Add .env file to the root directory of the frontend project.
+- env file details (please do not edit just copy and paste this into the .env file):
 
   - VITE_API_DEV_URL = http://localhost:4000/api
 
@@ -16,9 +16,9 @@
 - Run the project: `npm run dev`
 
 ### Backend
-
-- Add .env file
-- env file (please do not edit just copy and paste this into the .env file):
+- Clone the project from GitHub 
+- Add .env file to the root directory of the backend project.
+- env file details(please do not edit just copy and paste this into the .env file):
 
   - PORT = 4000
   - SUPABASE_URL = 'https://tdmlvpjcyocwpvxzyuof.supabase.co'
